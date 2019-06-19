@@ -650,11 +650,6 @@ body {
   z-index: 999;
 }
 
-
-/* Styles for thumbnail marker */
-
-
-
 #json {
   width: 500px;
   height: 500px;
@@ -662,37 +657,7 @@ body {
 
 .obj-id {
   color: brown;
-}
-
-/* .thermometer-icon,
-.clouds-icon,
-.wind-icon,
-.humidity-icon,
-.pressure-icon,
-.sunrise-icon {
-  width: 20px;
-  height: auto;
-  vertical-align: bottom;
-  margin-left: 3px;
-} */
-
-/* .popup-icon {
-  width: 20px;
-  height: auto;
-  vertical-align: bottom;
-  margin-left: 3px;
-}
-
-.popup-forecast-container {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-}
-
-.temp-section {
-  display: flex;
-  border: 1px solid gray;
-} */.custom-div-icon {
+}.custom-div-icon {
   background: none;
   border: none;
 }
